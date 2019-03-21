@@ -1,0 +1,12 @@
+https://github.com/phanthanhlamzz/phanthanhlamzz.github.io.git
+-----------------------------
+echo "# phanthanhlamzz.github.io" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/phanthanhlamzz/phanthanhlamzz.github.io.git
+git push -u origin master
+
+------------------------------
+git remote add origin https://github.com/phanthanhlamzz/phanthanhlamzz.github.io.git
+git push -u origin master
